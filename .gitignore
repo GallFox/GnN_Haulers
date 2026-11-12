@@ -1,0 +1,25 @@
+# Unreal Engine 4.27 — generated files
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+
+# Visual Studio and IDE
+.vs/
+.idea/
+*.sln
+*.suo
+*.user
+*.VC.db
+*.VC.opendb
+*.opensdf
+*.sdf
+*.pdb
+*.obj
+*.tlog
+
+# Temporary files
+*.log
+*.tmp
+*.bak
+*.swp
